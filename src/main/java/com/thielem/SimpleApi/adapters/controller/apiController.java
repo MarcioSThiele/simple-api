@@ -27,5 +27,4 @@ public class apiController {
         System.out.println(namesResult.toString());
         return new ResponseEntity<String>("Marcio", new HttpHeaders(), HttpStatus.OK);
     }
-
 }
