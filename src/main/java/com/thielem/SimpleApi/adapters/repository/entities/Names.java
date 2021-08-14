@@ -1,3 +1,4 @@
+/*
 package com.thielem.SimpleApi.adapters.repository.entities;
 
 import lombok.Data;
@@ -20,3 +21,4 @@ public class Names {
     @Column(value = "last_name")
     private String lastName;
 }
+ */
